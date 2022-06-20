@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: p20repo/nodejsapp:latest
+        image: p20repo/nodejs-demo:2.0
         ports:
         - containerPort: 3000
         
